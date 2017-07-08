@@ -1,7 +1,7 @@
-## GIT-Setup
+# GIT-Setup
 Install GIT for the OS(Windows/Mac/Linux) | https://git-scm.com/downloads
 
-# For setting up the existing local repository with existing GIT repository
+## For setting up the existing local repository with existing GIT repository
 git init
 git add .
 git commit -m "<some message>"
@@ -16,7 +16,7 @@ git add .
 git commit -m "<some message>"
 git push origin master
 
-# For setting up the existing local repository with existing GIT repository
+## For setting up the existing local repository with existing GIT repository
 git clone <remote_git_repository_url>
 - IDE shall provide all features
 
