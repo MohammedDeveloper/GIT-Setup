@@ -21,6 +21,15 @@ Go to your local repository folder in Command Terminal and execute the following
 git clone <remote_git_repository_url>
 - IDE shall provide all features
 
+## Change username and email global
+
+git config --global user.name "Nanhe Kumar"
+git config --global user.email "info@nanhekumar.com"
+
+## Change username and email for current repo
+git config  user.name "Nanhe Kumar"
+git config  user.email "info@nanhekumar.com"
+
 ## GIT Architeture
 https://stackoverflow.com/questions/2745076/what-are-the-differences-between-git-commit-and-git-push#answer-2745097
 
