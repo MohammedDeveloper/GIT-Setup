@@ -23,12 +23,15 @@ git clone <remote_git_repository_url>
 
 ## Change username and email global
 
-git config --global user.name "Nanhe Kumar"
-git config --global user.email "info@nanhekumar.com"
+- git config --global user.name "Nanhe Kumar"
+- git config --global user.email "info@nanhekumar.com"
 
 ## Change username and email for current repo
-git config  user.name "Nanhe Kumar"
-git config  user.email "info@nanhekumar.com"
+- git config  user.name "Nanhe Kumar"
+- git config  user.email "info@nanhekumar.com"
+
+## Package to switch accounts in GIT
+- https://github.com/paul-hanneforth/GitManager
 
 ## GIT Architeture
 https://stackoverflow.com/questions/2745076/what-are-the-differences-between-git-commit-and-git-push#answer-2745097
