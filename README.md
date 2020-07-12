@@ -16,6 +16,7 @@ Go to your local repository folder in Command Terminal and execute the following
 8. git add .
 9. git commit -m "<some message>"
 10. git push origin master
+11. Forcing to push local to remote (during merge conflicts): git push -f origin master
 
 ## For setting up the existing local repository with existing GIT repository
 git clone <remote_git_repository_url>
